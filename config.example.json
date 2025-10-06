@@ -1,0 +1,36 @@
+{
+  "converter_settings": {
+    "version": "2.2.0",
+    "default_attachable_material": "entity_alphatest_one_sided",
+    "default_block_material": "alpha_test",
+    "supported_bedrock_versions": {
+      "min": "1.20.0",
+      "max": "1.22.0"
+    },
+    "supported_java_versions": "1.16.0-1.22.0",
+    "latest_java_version": "1.22.0",
+    "latest_bedrock_version": "1.22.0"
+  },
+  "conversion_options": {
+    "show_warning": true,
+    "merge_pack": null,
+    "fallback_pack_url": null,
+    "default_asset_version": "1.22.0",
+    "rename_model_files": false,
+    "save_scratch_files": false,
+    "disable_ulimit": false
+  },
+  "advanced_options": {
+    "max_concurrent_jobs": "auto",
+    "backup_enabled": true,
+    "statistics_enabled": true,
+    "pack_analysis_enabled": true,
+    "dependency_validation": true
+  },
+  "output_settings": {
+    "create_preview_packs": true,
+    "create_addon_bundle": true,
+    "include_scratch_files": false,
+    "compress_output": true
+  }
+}
